@@ -8,7 +8,7 @@
 #If the pasword will expire after 4 days post user Object details to a PHP 
 #script that sends the notiffication.
 #The script uses the HTTP POST to PHP request method as integration of 
-#direct email message management module of PS may fail with some smtp servers 
+#direct email message management as mail module of PS may fail with some smtp servers 
 #with hightened security. 
 ########################################
 
